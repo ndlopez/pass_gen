@@ -11,8 +11,10 @@ Languages: Ruby, JavaScript and Python
   Considers misread of characters such as l and 1, O and 0.<br>
   `txt` var should be separated between uppercase and lowercase letters. 
 
-- *Python* Not uploaded yet
+- *Python* Currently working on a GUI app using Tkinter
   
-*Environment*: MacOS 15.5 and Debian stretch<br>
-*Editors* VIM and Emacs
+*Environment*: MacBookPro and Sony vaio J series
 
+*OS*: MacOS 15.5 and Debian stretch<br>
+
+*Editors*: VIM/Emacs and VisualStudio Code
